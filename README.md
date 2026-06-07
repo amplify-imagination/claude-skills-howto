@@ -1,5 +1,7 @@
 # Build Your Own Claude Skill — and Audit Anyone Else's
 
+▶ **Watch the video:** https://www.youtube.com/watch?v=Fw4oBGow2Jo
+
 Companion repo for the video. Three real, working skills you build up from scratch, plus a
 field guide to writing skills that actually trigger — and checking that someone else's skill is safe
 before you run it.
